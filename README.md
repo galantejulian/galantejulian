@@ -15,7 +15,7 @@
 ```javascript
 const aboutMe = {
     askMeAbout: ["app dev", "web dev", "tech"],
-    contactMe: ["galante.julian@gmail.com, "https://www.linkedin.com/in/juliangalante/"}
+    contactMe: ["galante.julian@gmail.com", "https://www.linkedin.com/in/juliangalante/"}
     technologies:{
         backEnd: ["nodejs"],
         fronEnd: ["react"],
